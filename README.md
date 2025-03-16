@@ -81,7 +81,7 @@ Upload `signalhub_code.ino` to your Arduino.
 ---
 
 ## Limitations
-- This project **only works on devices without security mechanisms** like rolling codes or encryption.
+- This project **only works on devices without security mechanisms** like rolling codes or TimeStamp.
 - It is designed for **315MHz and 433MHz frequencies** and may not work with other frequencies.
 - The number of characters allowed for naming a signal and the total number of saved signals are limited. However, you can modify these limits by updating the code to suit your needs.
 
