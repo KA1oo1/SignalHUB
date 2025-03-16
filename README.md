@@ -93,7 +93,6 @@ This project uses the **RCSwitch** library for sending and receiving RF signals.
 ---
 ## License
 This project is open-source. 
-
-
-
 ---
+## Author
+KA
