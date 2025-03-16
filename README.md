@@ -70,7 +70,7 @@ This project allows you to capture, save, and replay RF signals using an Arduino
 ---
 
 ## Schematic
-![Schematic](SignalHUB_Schematic.png)
+![Schematic](SignalHUB_Schematic.jpeg)
 
 ---
 
@@ -92,7 +92,7 @@ This project uses the **RCSwitch** library for sending and receiving RF signals.
   
 ---
 ## License
-This project is open-source. 
+- This project is open-source. 
 ---
 ## Author
 KA
