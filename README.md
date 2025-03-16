@@ -65,6 +65,7 @@ This project allows you to capture, save, and replay RF signals using an Arduino
 - 1x MX-RM-5V (315MHz receiver)
 - 1x MX-RM-5V (433MHz receiver)
 - Jumper wires
+- 2x Slide Switch
 - Breadboard
 
 ---
